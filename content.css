@@ -1,0 +1,14 @@
+.acd-label.acd-human-only {
+  outline: 1px dashed #6bc71f;
+  outline-offset: 4px;
+}
+
+.acd-label.acd-ai-assisted {
+  outline: 1px dashed #f9d000;
+  outline-offset: 4px;
+}
+
+.acd-label.acd-ai-autonomous {
+  outline: 1px dashed #ee4231;
+  outline-offset: 4px;
+}
